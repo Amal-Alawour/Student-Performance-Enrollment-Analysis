@@ -44,3 +44,14 @@ The Excel workbook contains:
 ## Project Files
 - Excel workbook
 - Power BI dashboard
+
+## Dashboard Preview
+
+### Overview Dashboard
+![Overview Dashboard](overview-dashboard.png)
+
+### Course Performance
+![Course Performance](course-performance.png)
+
+### Student & Enrollment Analysis
+![Student & Enrollment Analysis](student-enrollment-analysis.png)
