@@ -46,10 +46,11 @@ The Excel workbook contains:
 - Power BI dashboard
 
 ### Overview Dashboard
-![Overview Dashboard](overview-dashboard.png)
+<img width="1412" height="691" alt="image" src="https://github.com/user-attachments/assets/2ff8a3df-58a0-49f4-826a-a87167bddfef" />
 
 ### Course Performance
-![Course Performance](course-performance.png)
+<img width="1252" height="690" alt="image" src="https://github.com/user-attachments/assets/c3767640-f612-4abc-ab64-359631ad8a7e" />
 
 ### Student & Enrollment Analysis
-![Student & Enrollment Analysis](student-enrollment-analysis.png)
+<img width="1247" height="688" alt="image" src="https://github.com/user-attachments/assets/345460b6-fe7e-45a5-8452-2aaff3c29850" />
+
