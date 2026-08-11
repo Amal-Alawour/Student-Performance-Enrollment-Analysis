@@ -45,8 +45,6 @@ The Excel workbook contains:
 - Excel workbook
 - Power BI dashboard
 
-## Dashboard Preview
-
 ### Overview Dashboard
 ![Overview Dashboard](overview-dashboard.png)
 
