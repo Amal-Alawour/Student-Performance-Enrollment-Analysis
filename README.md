@@ -24,6 +24,17 @@ This project analyzes student performance and course enrollment data using Micro
 - Average Attendance: 90.78%
 - Average Assignment Score: 86.80
 
+
+## Key Insights
+
+- The project analyzes 20 students and 40 enrollments.
+- The overall completion rate is 75%.
+- The average final score is 88.98.
+- The average attendance rate is 90.78%.
+- C002 has the highest average final score at 92.00.
+- C006 has the lowest average final score at 82.67.
+
+  
 ## Power BI Dashboard
 The Power BI project contains three pages:
 
